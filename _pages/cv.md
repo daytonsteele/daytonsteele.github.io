@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Link](CV_DSTEELE_10262020.pdf)
+[Link](https://github.com/daytonsteele/daytonsteele.github.io/tree/master/files/CV_DSTEELE_10262020.pdf)
 
