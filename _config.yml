@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dayton Steele"
   avatar           : "pic_Steele_Dayton.jpg"
-  bio              : "PhD Student"
-  location         : "UNC - Chapel Hill"
+  bio              : "PhD Student, UNC - Chapel Hill"
+  location         : #"UNC - Chapel Hill"
   employer         :
   pubmed           : 
   googlescholar    : 
