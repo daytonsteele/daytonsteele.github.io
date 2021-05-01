@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Link
+[Link](CV_DSTEELE_10262020.pdf)
 
