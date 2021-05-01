@@ -5,10 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-Project 1
+### Works in Progress
 
-Project 2
 
-Project 3
-
-Project 4
+## Enhancing Local Fulfillment in Online Retail: An Application of the Newsvendor Model at JD.com
+Short description: We examine...
