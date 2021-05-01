@@ -12,7 +12,8 @@ Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with 
 Under Review at Management Science
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3824987)
 
-## Published Papers
+Published Papers
+======
 
 The Effect of Brexit on EU Voting Power, with Kathy Hoke
 The UMAP Journal (February 2018)	
@@ -20,7 +21,8 @@ The UMAP Journal (February 2018)
 A comparison of Carlet’s second order nonlinearity bounds, with Sihem Mesnager, Gavin McGrew, James Davis, Katherine Marsten 
 International Journal of Computer Mathematics (December 2015)
 
-### Works in Progress
+Works in Progress
+======
 
 Enhancing Local Fulfillment in Online Retail: An Application of the Newsvendor Model at JD.com, with Saravanan Kesavan
 	
