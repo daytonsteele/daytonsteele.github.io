@@ -11,7 +11,6 @@ Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with 
 Under Review at *Management Science* \
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3824987) 
 
-<br/>
 
 ## Published Papers
 
@@ -21,7 +20,6 @@ The Effect of Brexit on EU Voting Power, with Kathy Hoke \
 A comparison of Carlet’s second order nonlinearity bounds, with Sihem Mesnager, Gavin McGrew, James Davis, Katherine Marsten \
 *International Journal of Computer Mathematics* (December 2015)
 
-<br/>
 
 ## Works in Progress
 
