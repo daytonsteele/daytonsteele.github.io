@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Available for download [here](https://github.com/daytonsteele/daytonsteele.github.io/tree/master/files/CV_DSTEELE_10262020.pdf).
+Available for download [here](/files/pdf/Steele_CV.pdf).
