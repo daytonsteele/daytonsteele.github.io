@@ -18,3 +18,6 @@ MBA 706: Data Analytics: Tools and Opportunities (Machine Learning), 2020
 
 ## Tutor (UNC)
 MBA 700: Analytical Tools, 2017-2021
+
+## Awards
+2021 Latané PhD Outstanding Teacher, Kenan-Flagler Business School
