@@ -8,7 +8,7 @@ author_profile: true
 ## Job Market Paper
 
 Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with Saravanan Kesavan and Seyed Emadi \
-Under Review at *Management Science* \
+Reject & Resubmit at *Management Science* \
 Available to download on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3824987).
 
 ## Working Papers
