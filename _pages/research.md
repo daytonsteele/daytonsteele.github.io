@@ -20,7 +20,7 @@ Available for download [here](/files/pdf/closer_fulfillment.pdf).
 	
 Incentivizing Recycling to Improve Sustainability: Evidence from a Randomized Field Experiment, with Atalay Atasu and Saravanan Kesavan
 
-Forecasting Demand for Spare Parts with Limited Demand Information using Machine Learning, with Saravanan Kesavan	
+Towards Interpretable Machine Learning in Forecasting Sales of Spare Parts, with Saravanan Kesavan	
 
 
 ## Published Papers
