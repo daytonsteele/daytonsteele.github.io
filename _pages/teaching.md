@@ -7,7 +7,8 @@ author_profile: true
 
 ## Instructor (UNC)
 (Undergraduate) BUSI 410: Business Analytics, 2020 \
-Instructor Evaluation 4.8/5.0 (Response Rate: 26/28)
+Instructor Evaluation 4.8/5.0 (Response Rate: 93%, from 26/28)
+Available for download [here](/files/pdf/CourseEvals_BUSI410.pdf).
 
 ## Teaching Assistant (UNC)
 BUSI 403: Operations Management (Undergraduate), 2018 \
