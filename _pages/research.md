@@ -8,20 +8,20 @@ author_profile: true
 ## Job Market Paper
 
 Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with Saravanan Kesavan and Seyed Emadi \
-Reject & Resubmit at *Management Science* \
+*(Under Preparation for Resubmission to Management Science)* \
 Available to download on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3824987).
 
 ## Working Papers
 
-Enhancing Local Fulfillment in Online Retail: An Application of the Newsvendor Model at JD.com, with Saravanan Kesavan \
+Enhancing Local Fulfillment in Retail: A Structural Model of Fulfilling Demand Sensitive to Waiting, with Saravanan Kesavan \
+*(Targeting Manufacturing & Service Operations Management)*
 Available for download [here](/files/pdf/closer_fulfillment.pdf).
 
 ## Works in Progress
-	
-Incentivizing Recycling to Improve Sustainability: Evidence from a Randomized Field Experiment, with Atalay Atasu and Saravanan Kesavan
 
-Towards Interpretable Machine Learning in Forecasting Sales of Spare Parts, with Saravanan Kesavan	
+How Transparency to Black Box Models Impacts Manager Override Behavior: Explainable AI in Retail, with Saravanan Kesavan	
 
+Incentivizing Recycling to Improve Sustainability: Empirical Evidence from a Consumer Electronics Retailer,” with Atalay Atasu and Saravanan Kesavan
 
 ## Published Papers
 
