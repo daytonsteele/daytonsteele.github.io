@@ -19,10 +19,10 @@ Available for download [here](/files/pdf/closer_fulfillment.pdf).
 
 ## Works in Progress
 
-How Transparency to Black Box Models Impacts Manager Override Behavior: Explainable AI in Retail, with Saravanan Kesavan
+How Transparency to Black Box Models Impacts Manager Override Behavior: Explainable AI in Retail, with Saravanan Kesavan \
 *(Field experiments in progress)*
 
-Incentivizing Recycling to Improve Sustainability: Empirical Evidence from a Consumer Electronics Retailer,” with Atalay Atasu and Saravanan Kesavan
+Incentivizing Recycling to Improve Sustainability: Empirical Evidence from a Consumer Electronics Retailer,” with Atalay Atasu and Saravanan Kesavan \
 *(Field experiments in progress)*
 
 ## Published Papers
