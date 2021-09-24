@@ -14,7 +14,7 @@ Available to download on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abs
 ## Working Papers
 
 Enhancing Local Fulfillment in Retail: A Structural Model of Fulfilling Demand Sensitive to Waiting, with Saravanan Kesavan \
-*(Targeting Manufacturing & Service Operations Management)*
+*(Targeting Manufacturing & Service Operations Management)* \
 Available for download [here](/files/pdf/closer_fulfillment.pdf).
 
 ## Works in Progress
