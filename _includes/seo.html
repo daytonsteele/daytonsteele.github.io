@@ -89,6 +89,20 @@
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% endif %}
 
+
+{% if page.header.image %}
+  <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | absolute_url }}{% endif %}">
+{% elsif page.header.overlay_image %}
+  <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | absolute_url }}{% endif %}">
+{% elsif page.header.teaser %}
+  <meta property="og:image" content="{% if page.header.teaser contains "://" %}{{ page.header.teaser }}{% else %}{{ page.header.teaser | absolute_url }}{% endif %}">
+{% elsif page.og_image %}
+  <meta property="og:image" content="{% if page.og_image contains "://" %}{{ page.og_image }}{% else %}{{ page.og_image | absolute_url }}{% endif %}">
+{% elsif site.og_image %}
+  <meta property="og:image" content="{% if site.og_image contains "://" %}{{ site.og_image }}{% else %}{{ site.og_image | absolute_url }}{% endif %}">
+{% endif %}
+
+
 {% if page.date %}
   <meta property="og:type" content="article">
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
