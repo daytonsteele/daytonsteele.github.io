@@ -5,24 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-## Job Market Paper
+## Working Papers
 
 Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with Saravanan Kesavan and Seyed Emadi \
 *(Under preparation for resubmission to Management Science)* \
-Available to download on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3824987).
+Available for download on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3824987).
 
-## Working Papers
-
-Enhancing Local Fulfillment in Retail: A Structural Model of Fulfilling Demand Sensitive to Waiting, with Saravanan Kesavan \
+Local Fulfillment in E-Commerce: Structural Estimation of Fulfilling Demand Sensitive to Delivery Speed, with Saravanan Kesavan \
 *(Targeting Manufacturing & Service Operations Management)* \
 Available for download [here](/files/pdf/closer_fulfillment.pdf).
 
 ## Works in Progress
 
-How Transparency to Black Box Models Impacts Manager Override Behavior: Explainable AI in Retail, with Saravanan Kesavan \
+Incentivizing Recycling to Improve Sustainability: Evidence from Field Experiments, with Atalay Atasu and Saravanan Kesavan \
 *(Field experiments in progress)*
 
-Incentivizing Recycling to Improve Sustainability: Empirical Evidence from a Consumer Electronics Retailer, with Atalay Atasu and Saravanan Kesavan \
+How Transparency to Black Box Models Impacts Manager Override Behavior: Explainable AI in Retail, with Saravanan Kesavan \
 *(Field experiments in progress)*
 
 ## Published Papers
