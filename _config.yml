@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dayton Steele"
 title_separator          : "-"
 name                     : &name "Dayton Steele"
-description              : &description "Dayton Steele, University of North Carolina at Chapel Hill (UNC) Kenan Flagler Business School PhD Student"
+description              : &description "Dayton Steele, Assistant Professor of Supply Chain and Operations, Carlson School of Management at University of Minnesota"
 url                      : https://daytonsteele.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daytonsteele/daytonsteele.gibhub.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dayton Steele"
   avatar           : "pic_Steele_Dayton.jpg"
-  bio              : "PhD Student, University of North Carolina at Chapel Hill"
-  location         : "Chapel Hill, NC"
+  bio              : "Assistant Professor of Supply Chain and Operations, University of Minnesota"
+  location         : "Minneapolis, MN"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "dayton_steele@kenan-flagler.unc.edu"
+  email            : "steel502@umn.edu"
   researchgate     :  
   uri              :
   bitbucket        :
