@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Operations at the [UNC Kenan-Flagler Business School](https://www.kenan-flagler.unc.edu). I will be starting this summer as an Assistant Professor in the [Supply Chain and Operations](https://carlsonschool.umn.edu/departments/supply-chain-operations-department) Department at the Carlson School of Management, University of Minnesota.
+I am an Assistant Professor in the [Supply Chain and Operations](https://carlsonschool.umn.edu/departments/supply-chain-operations-department) Department at the Carlson School of Management, University of Minnesota.
 
-My research uses structural estimation and field experiments as techniques to study new innovative processes at retail chains. My advisor is [Saravanan Kesavan](https://www.kenan-flagler.unc.edu/faculty/directory/saravanan-kesavan/).
+My research uses structural estimation and field experiments as techniques to study new innovative processes at retail chains. My works span a variety of retail contexts including apparel, e-Commerce, consumer electronics, and automobile spare parts. 
 
-Prior to academia, I worked in management consulting in Richmond, VA, leading the data analytics department. I completed my undergraduate studies at [University of Richmond](https://www.richmond.edu/), with a BS in Mathematical Economics.
+I received my PhD in Operations at [the University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu), and I completed my undergraduate studies at [University of Richmond](https://www.richmond.edu/), with a BS in Mathematical Economics.
 
-
+Prior to academia, I worked in management consulting in Richmond, VA, leading the data analytics department.
