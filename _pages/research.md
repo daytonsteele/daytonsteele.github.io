@@ -12,7 +12,7 @@ Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with 
 Available for download on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3824987).
 
 Local Fulfillment in E-Commerce: Structural Estimation of Fulfilling Demand Sensitive to Delivery Speed, with Saravanan Kesavan \
-*(Targeting Manufacturing & Service Operations Management)* \
+*(Working paper)* \
 Available for download [here](/files/pdf/closer_fulfillment.pdf).
 
 ## Works in Progress
