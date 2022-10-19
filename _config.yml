@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "images/Steele_photo.jpg" # Open Graph/Twitter default site image
+og_image                 : "images/Steele_photo_trim.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dayton Steele"
-  avatar           : "Steele_photo.jpg"
+  avatar           : "Steele_photo_trim.jpg"
   bio              : "Assistant Professor of Supply Chain and Operations, University of Minnesota"
   location         : "Minneapolis, MN"
   employer         :
