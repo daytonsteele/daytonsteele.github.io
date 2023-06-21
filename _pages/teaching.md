@@ -5,19 +5,20 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Instructor (UNC)
-BUSI 410: Business Analytics (Undergraduate), 2020 \
-Instructor Evaluation: 4.8/5.0 (Response Rate: 93%, from 26/28) \
-Available for download [here](/files/pdf/CourseEvals_BUSI410.pdf).
+## Instructor, University of Minnesota
+BA 2551: Business Statistics in R
 
-## Teaching Assistant (UNC)
-BUSI 403: Operations Management (Undergraduate), 2018 \
-BUSI 410: Business Analytics (Undergraduate) , 2018 \
-MBA 703: Operations Management, 2017-2020 \
-MBA 705: Business Modeling: Prescriptive Analytics, 2020-2021 \
+## Instructor, UNC Chapel Hill
+BUSI 410: Business Analytics
+
+## Teaching Assistant, UNC Chapel Hill
+BUSI 403: Operations Management \
+BUSI 410: Business Analytics \
+MBA 703: Operations Management \
+MBA 705: Business Modeling: Prescriptive Analytics \
 MBA 706: Data Analytics: Tools and Opportunities (Machine Learning), 2020
 
-## Tutor (UNC)
+## Tutor, UNC Chapel Hill
 MBA 700: Analytical Tools, 2017-2021
 
 ## Awards
