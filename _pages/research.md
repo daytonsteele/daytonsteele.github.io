@@ -30,7 +30,7 @@ How Transparency to Black Box Models Impacts Manager Override Behavior: Explaina
 
 The Effect of Brexit on EU Voting Power (2018), with Kathy Hoke \
 *The UMAP Journal* \
-Available [here](https://www.comap.com/product/?idx=1618).
+Available [here](https://www.comap.com/membership/member-resources/item/the-effect-of-brexit-on-eu-voting-power?highlight=WyJlZmZlY3QiLCJvZiIsImJyZXhpdCJd).
 
 A comparison of Carlet’s second order nonlinearity bounds (2017), with Sihem Mesnager, Gavin McGrew, James Davis, Katherine Marsten \
 *International Journal of Computer Mathematics* \
