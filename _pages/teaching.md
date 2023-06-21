@@ -19,7 +19,7 @@ MBA 705: Business Modeling: Prescriptive Analytics \
 MBA 706: Data Analytics: Tools and Opportunities (Machine Learning), 2020
 
 ## Tutor, UNC Chapel Hill
-MBA 700: Analytical Tools, 2017-2021
+MBA 700: Analytical Tools
 
 ## Awards
 2021 Latané PhD Outstanding Teacher, Kenan-Flagler Business School
