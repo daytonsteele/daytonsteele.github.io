@@ -19,7 +19,7 @@ Local Fulfillment in E-Commerce: Structural Estimation of Fulfilling Demand Sens
 Available [here](/files/pdf/closer_fulfillment.pdf).
 
 Consumers’ Role in Circularity Execution: Evidence from Field Experiments, with Atalay Atasu and Saravanan Kesavan \
-*(Invited for resubmission at Management Science)*\
+*(Invited for resubmission at Management Science)* \
 
 ## Published Papers
 
