@@ -8,7 +8,7 @@ author_profile: true
 ## Working Papers
 
 Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with Saravanan Kesavan and Seyed Emadi \
-*(Under review at Management Science, prior round Minor Revision)* \
+*(Forthcoming at Management Science)* \
 Available on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3824987).
 
 Augmenting Algorithms with Human Input: Estimating the Value of Private Information with a Large-Scale Field Experiment, with Saravanan Kesavan and Tarun Kushwaha. \
