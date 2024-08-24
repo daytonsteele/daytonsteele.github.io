@@ -11,8 +11,8 @@ Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with 
 *(Forthcoming at Management Science)* \
 Available on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3824987).
 
-Augmenting Algorithms with Human Input: Estimating the Value of Private Information with a Large-Scale Field Experiment, with Saravanan Kesavan and Tarun Kushwaha. \
-*(Reject and resubmit at Management Science)* 
+Profit Implications of Judgmental Adjustments to Forecast Inputs: Evidence from a Large-Scale Field Experiment, with Saravanan Kesavan and Tarun Kushwaha. \
+*(Minor Revision at Management Science)* 
 
 Local Fulfillment in E-Commerce: Structural Estimation of Fulfilling Demand Sensitive to Delivery Speed, with Saravanan Kesavan \
 *(Reject and resubmit at M&SOM)* \
