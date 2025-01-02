@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published Papers
 
-Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with Saravanan Kesavan and Seyed Emadi \
+Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with Seyed Emadi and Saravanan Kesavan \
 *Management Science* \
 Available [here](https://doi.org/10.1287/mnsc.2022.04152).
 
