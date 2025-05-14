@@ -26,7 +26,8 @@ Available [here](https://www.tandfonline.com/doi/abs/10.1080/00207160.2015.11120
 ## Research in Progress
 
 Consumers’ Role in Circularity Execution: Evidence from Field Experiments, with Atalay Atasu and Saravanan Kesavan \
-*(Reject with option to resubmit at Management Science)* 
+*(Reject with option to resubmit at Management Science)* \
+Available [here](https://papers.ssrn.com/abstract=5254266).
 
 Local Fulfillment in E-Commerce: Structural Estimation of Fulfilling Demand Sensitive to Delivery Speed, with Saravanan Kesavan \
 *(Reject with option to resubmit at M&SOM)* \
