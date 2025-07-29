@@ -35,7 +35,7 @@ Local Fulfillment in E-Commerce: Structural Estimation of Fulfilling Demand Sens
 Available [here](/files/pdf/closer_fulfillment.pdf).
 
 Evaluating Crowdsourcing Problem Specifications: A Text Discourse Analysis using LLMs, with Brian Lee, Anant Mishra, and Andrew Shin \
-*(Targeting submission to Management Science)*
+*(Analysis in progress)*
 
 Impact of Interpretable AI on Decision Bias \
 *(Lab experiments in progress)*
