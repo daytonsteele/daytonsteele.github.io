@@ -12,7 +12,7 @@ Intertemporal Pricing with Resellers: An Empirical Study of Product Drops, with 
 Available [here](https://doi.org/10.1287/mnsc.2022.04152).
 
 Profit Implications of Judgmental Adjustments to Forecast Inputs: Evidence from a Large-Scale Field Experiment, with Saravanan Kesavan and Tarun Kushwaha. \
-*Management Science*
+*Management Science* \
 Available [here](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06321)
 
 The Effect of Brexit on EU Voting Power (2018), with Kathy Hoke \
