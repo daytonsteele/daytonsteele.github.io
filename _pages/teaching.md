@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Instructor, University of Minnesota
-BA 2551: Business Statistics in R
+BA 2551: Business Statistics in R \
+MBA 6121: Data Analysis and Statistics for Managers
 
 ## Instructor, UNC Chapel Hill
 BUSI 410: Business Analytics
