@@ -26,19 +26,24 @@ Available [here](https://www.tandfonline.com/doi/abs/10.1080/00207160.2015.11120
 
 ## Research in Progress
 
-Consumers’ Role in Circularity Execution: Evidence from Field Experiments, with Atalay Atasu and Saravanan Kesavan \
-*(Reject with option to resubmit at Management Science)* \
+Getting Consumers to Return E-waste: Evidence from Field and Lab Experiments, with Atalay Atasu and Saravanan Kesavan \
+*(Under 2nd round review at Management Science)* \
 Available [here](https://papers.ssrn.com/abstract=5254266).
 
 Local Fulfillment in E-Commerce: Structural Estimation of Fulfilling Demand Sensitive to Delivery Speed, with Saravanan Kesavan \
 *(Reject with option to resubmit at M&SOM)* \
 Available [here](/files/pdf/closer_fulfillment.pdf).
 
-Evaluating Crowdsourcing Problem Specifications: A Text Discourse Analysis using LLMs, with Brian Lee, Anant Mishra, and Andrew Shin \
-*(Analysis in progress)*
+Understanding Problem Specifications using Text Analysis, with Brian Lee, Rachna Shah, and Andrew Shin* \
+*(Data analysis in progress)*
+*PhD Student at University of Minnesota
+
+The Display of Certified Local Food Products on Retail Shelves, with Orchi Bhattacharyya* and Necati Ertekin \
+*(Data analysis in progress)*
+*PhD Student at University of Minnesota
 
 Impact of Interpretable AI on Decision Bias \
-*(Lab experiments in progress)*
+*(Lab experiment design in progress)*
 
 The Product Drop Strategy, with Necati Tereyağoğlu \
-*(Model analysis in progress)*
+*(Model design in progress)*
