@@ -39,7 +39,7 @@ Understanding Problem Specifications using Text Analysis, with Brian Lee, Rachna
 *PhD Student at University of Minnesota
 
 The Display of Certified Local Food Products on Retail Shelves, with Orchi Bhattacharyya* and Necati Ertekin \
-*(Data analysis in progress)* \
+*(Field experiment design in progress)* \
 *PhD Student at University of Minnesota
 
 Impact of Interpretable AI on Decision Bias \
