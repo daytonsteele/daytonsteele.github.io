@@ -35,11 +35,11 @@ Local Fulfillment in E-Commerce: Structural Estimation of Fulfilling Demand Sens
 Available [here](/files/pdf/closer_fulfillment.pdf).
 
 Understanding Problem Specifications using Text Analysis, with Brian Lee, Rachna Shah, and Andrew Shin* \
-*(Data analysis in progress)*
+*(Data analysis in progress)* \
 *PhD Student at University of Minnesota
 
 The Display of Certified Local Food Products on Retail Shelves, with Orchi Bhattacharyya* and Necati Ertekin \
-*(Data analysis in progress)*
+*(Data analysis in progress)* \
 *PhD Student at University of Minnesota
 
 Impact of Interpretable AI on Decision Bias \
