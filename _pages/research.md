@@ -7,11 +7,11 @@ author_profile: true
 
 ## Published Papers
 
-Profit Implications of Judgmental Adjustments to Forecast Inputs: Evidence from a Large-Scale Field Experiment (2025), with Saravanan Kesavan and Tarun Kushwaha. \
+Profit Implications of Judgmental Adjustments to Forecast Inputs: Evidence from a Large-Scale Field Experiment (2026), with Saravanan Kesavan and Tarun Kushwaha. \
 *Management Science* \
 Available [here](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06321)
 
-Intertemporal Pricing with Resellers: An Empirical Study of Product Drops (2024), with Seyed Emadi and Saravanan Kesavan \
+Intertemporal Pricing with Resellers: An Empirical Study of Product Drops (2025), with Seyed Emadi and Saravanan Kesavan \
 *Management Science* \
 Available [here](https://doi.org/10.1287/mnsc.2022.04152).
 
