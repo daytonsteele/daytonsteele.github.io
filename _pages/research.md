@@ -27,7 +27,7 @@ Available [here](https://www.tandfonline.com/doi/abs/10.1080/00207160.2015.11120
 ## Research in Progress
 
 Getting Consumers to Return E-waste: Evidence from Field and Lab Experiments, with Atalay Atasu and Saravanan Kesavan \
-*(Under 2nd round review at Management Science)* \
+*(Under review at M&SOM)* \
 Available [here](https://papers.ssrn.com/abstract=5254266).
 
 AI as a Second Service Channel: Improving Support Without Replacing Humans, with Dmitry Mitrofanov. \
