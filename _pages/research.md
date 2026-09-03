@@ -30,20 +30,17 @@ Getting Consumers to Return E-waste: Evidence from Field and Lab Experiments, wi
 *(Under 2nd round review at Management Science)* \
 Available [here](https://papers.ssrn.com/abstract=5254266).
 
+“AI as a Second Service Channel: Improving Support Without Replacing Humans,” with Dmitry Mitrofanov. \
+*(Under review at Management Science)* \
+
 Local Fulfillment in E-Commerce: Structural Estimation of Fulfilling Demand Sensitive to Delivery Speed, with Saravanan Kesavan \
-*(Reject with option to resubmit at M&SOM)* \
+*(Working paper)* \
 Available [here](/files/pdf/closer_fulfillment.pdf).
 
-Understanding Problem Specifications using Text Analysis, with Brian Lee, Rachna Shah, and Andrew Shin* \
-*(Data analysis in progress)* \
+Selecting from Competing Tasks: The Role of Complexity of the Problem Specification, with Brian Lee, Rachna Shah, and Andrew Shin* \
+*(Preparing paper for submission)* \
 *PhD Student at University of Minnesota
 
 The Display of Certified Local Food Products on Retail Shelves, with Orchi Bhattacharyya* and Necati Ertekin \
-*(Field experiment design in progress)* \
+*(Field experiment complete, data analysis in progress)* \
 *PhD Student at University of Minnesota
-
-Impact of Interpretable AI on Decision Bias \
-*(Lab experiment design in progress)*
-
-The Product Drop Strategy, with Necati Tereyağoğlu \
-*(Model design in progress)*
