@@ -30,7 +30,7 @@ Getting Consumers to Return E-waste: Evidence from Field and Lab Experiments, wi
 *(Under 2nd round review at Management Science)* \
 Available [here](https://papers.ssrn.com/abstract=5254266).
 
-“AI as a Second Service Channel: Improving Support Without Replacing Humans,” with Dmitry Mitrofanov. \
+AI as a Second Service Channel: Improving Support Without Replacing Humans, with Dmitry Mitrofanov. \
 *(Under review at Management Science)* \
 
 Local Fulfillment in E-Commerce: Structural Estimation of Fulfilling Demand Sensitive to Delivery Speed, with Saravanan Kesavan \
